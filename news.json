@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "last_checked": "2026-11-18",
+    "note": "Curated from the notification texts in the project files. Each item links to a source for daily updates. Check the link yourself before relying on it."
+  },
+  "items": [
+    {
+      "id": "N001",
+      "date": "2026-10-27",
+      "effective": "2026-11-01",
+      "category": "Rate change",
+      "title": "Retreaded tractor tyres at 2.5%; other retreaded tyres at 9%",
+      "summary": "Notification 02/2026 adds retreaded tractor tyres at 2.5% (Schedule I, S.No 272A), keeps other retreaded or used tyres at 9%, and widens the fertiliser entry to include seaweed-based bio-stimulants.",
+      "reference": "Notification 02/2026-Central Tax (Rate), Schedule I S.No 237 and 272A; Schedule II S.No 138",
+      "source_url": "https://www.taxsutra.com/gst",
+      "source_name": "TaxSutra GST"
+    },
+    {
+      "id": "N002",
+      "date": "2026-10-27",
+      "effective": "2026-11-01",
+      "category": "Rate change",
+      "title": "Psyllium seeds (isabgol) added at nil rate",
+      "summary": "Notification 03/2026 adds psyllium seeds under heading 1211 90 13 to the nil-rate schedule of notification 10/2025 as S.No 87A.",
+      "reference": "Notification 03/2026-Central Tax (Rate)",
+      "source_url": "https://blog.saginfotech.com/gst-latest-updates",
+      "source_name": "SAG Infotech GST updates"
+    },
+    {
+      "id": "N003",
+      "date": "2026-10-27",
+      "effective": "2026-11-01",
+      "category": "Rate change",
+      "title": "Hotel, restaurant, EV transport and delivery service conditions revised",
+      "summary": "Notification 06/2026 revises the input tax credit conditions for hotel, restaurant and outdoor catering services. It adds 2.5% entries for passenger and goods transport in electrically operated vehicles, and changes the delivery service entry. It also updates the goods transport agency definition.",
+      "reference": "Notification 06/2026-Central Tax (Rate) amending notification 11/2017-Central Tax (Rate)",
+      "source_url": "https://www.taxaj.com/daily-tax-compliance-updates",
+      "source_name": "TaxAJ daily compliance updates"
+    },
+    {
+      "id": "N004",
+      "date": "2026-10-27",
+      "effective": "2026-11-01",
+      "category": "Exemption",
+      "title": "New exemptions: SPFO services, toll collection, coffee curing, storage of seeds and grains",
+      "summary": "Notification 07/2026 adds nil-rated entries for services by the Seamen's Provident Fund Organisation, toll collection by government bodies, curing of coffee for growers, and storage of cereals, pulses, fruits, vegetables and seeds meant for sowing. It also adds a definition of 'seed'.",
+      "reference": "Notification 07/2026-Central Tax (Rate) amending notification 12/2017-Central Tax (Rate)",
+      "source_url": "https://www.taxsutra.com/gst",
+      "source_name": "TaxSutra GST"
+    },
+    {
+      "id": "N005",
+      "date": "2026-10-27",
+      "effective": "2026-11-01",
+      "category": "New rule",
+      "title": "Reverse charge extended to used cooking oil, plastic and tyre waste, and e-waste",
+      "summary": "Notification 04/2026 adds used cooking oil, waste and scrap of plastics, waste and scrap of tyres, and electrical and electronics waste to the list where tax is payable by the registered recipient when the supplier is unregistered.",
+      "reference": "Notification 04/2026-Central Tax (Rate) amending notification 4/2017-Central Tax (Rate)",
+      "source_url": "https://blog.saginfotech.com/gst-latest-updates",
+      "source_name": "SAG Infotech GST updates"
+    },
+    {
+      "id": "N006",
+      "date": "2026-10-27",
+      "effective": "2026-11-01",
+      "category": "New rule",
+      "title": "'Nominated agency' definition updated for exports",
+      "summary": "Notification 05/2026 changes the definition of 'nominated agency' to refer to entities listed in Appendix 4B of the DGFT Handbook of Procedures, as amended from time to time.",
+      "reference": "Notification 05/2026-Central Tax (Rate) amending notification 26/2018-Central Tax (Rate)",
+      "source_url": "https://www.taxaj.com/daily-tax-compliance-updates",
+      "source_name": "TaxAJ daily compliance updates"
+    },
+    {
+      "id": "N007",
+      "date": "2026-04-30",
+      "effective": "2026-05-01",
+      "category": "Rate change",
+      "title": "HSN codes restated for some beverages",
+      "summary": "Notification 01/2026 changes the HSN entries for certain beverages in Schedule I (2.5%) and Schedule III (20%). The notification changes the codes listed in each entry. Check the entry for your product before invoicing.",
+      "reference": "Notification 01/2026-Central Tax (Rate) amending notification 09/2025-Central Tax (Rate)",
+      "source_url": "https://www.taxsutra.com/gst",
+      "source_name": "TaxSutra GST"
+    },
+    {
+      "id": "N008",
+      "date": "2025-11-13",
+      "effective": "13 Nov 2025 (some sections); 13 May 2027 (main duties)",
+      "category": "Announcement",
+      "title": "DPDP Act: first provisions in force; main duties from May 2027",
+      "summary": "Notification G.S.R. 843(E) brings some provisions of the Digital Personal Data Protection Act, 2023 into force. Main obligations for data fiduciaries are scheduled for 13 May 2027. The DPDP Rules, 2025 (G.S.R. 846(E)) also commence in stages.",
+      "reference": "G.S.R. 843(E), 13 Nov 2025; DPDP Rules, 2025, G.S.R. 846(E)",
+      "source_url": "https://www.meity.gov.in/",
+      "source_name": "MeitY (official)"
+    },
+    {
+      "id": "N009",
+      "date": "2025-09-17",
+      "effective": "2025-09-22",
+      "category": "Rate change",
+      "title": "GST rate rationalisation for goods and services",
+      "summary": "Central tax rates were revised across many goods and services from 22 September 2025 through notifications 9/2025, 10/2025 and 15/2025. Check the schedule entry for your item.",
+      "reference": "Notifications 9/2025, 10/2025 and 15/2025-Central Tax (Rate)",
+      "source_url": "https://www.taxaj.com/daily-tax-compliance-updates",
+      "source_name": "TaxAJ daily compliance updates"
+    }
+  ]
+}

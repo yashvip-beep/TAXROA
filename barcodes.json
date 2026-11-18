@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "version": "0.1.0",
+    "note": "Barcode-to-item links. Add an entry only after you have confirmed that the barcode belongs to the item. record_id must match an id in gst_rates.json. Empty on purpose."
+  },
+  "records": []
+}
